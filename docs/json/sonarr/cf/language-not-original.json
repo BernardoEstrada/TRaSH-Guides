@@ -1,7 +1,9 @@
 {
   "trash_id": "ae575f95ab639ba5d15f663bf019e3e8",
   "trash_scores": {
-    "default": -10000,
+    "default": -5000,
+    "es-score": -500,
+    "en-score": -500,
     "french-anime-multi": -10000,
     "french-anime-vostfr": -10000,
     "french-multi-vf": 0,
