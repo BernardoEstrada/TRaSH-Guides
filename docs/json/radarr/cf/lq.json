@@ -35,6 +35,15 @@
       }
     },
     {
+      "name": "AOC",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(AOC)$"
+      }
+    },
+    {
       "name": "AROMA",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
@@ -95,6 +104,15 @@
       "required": false,
       "fields": {
         "value": "^(beAst)$"
+      }
+    },
+    {
+      "name": "BTM",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(BTM)$"
       }
     },
     {
@@ -311,6 +329,15 @@
       "required": false,
       "fields": {
         "value": "^(GPTHD)$"
+      }
+    },
+    {
+      "name": "HDHUB4U",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(HDHUB4U)$"
       }
     },
     {
@@ -599,15 +626,6 @@
       "required": false,
       "fields": {
         "value": "^(PATOMiEL)$"
-      }
-    },
-    {
-      "name": "PiRaTeS",
-      "implementation": "ReleaseGroupSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": "^(PiRaTeS)$"
       }
     },
     {
