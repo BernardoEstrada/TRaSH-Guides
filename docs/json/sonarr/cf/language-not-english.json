@@ -3,7 +3,8 @@
   "trash_scores": {
     "default": -500,
     "es-score": -200,
-    "en-score": -10000
+    "en-score": -10000,
+    "en-es-score": -10000
   },
   "trash_description": "Language: English Only: Because it uses reverse scoring, and if you use the default scores, it will assign all releases without the English audio a score of -10000.",
   "name": "Language: Not English",

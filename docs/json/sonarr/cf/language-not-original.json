@@ -4,6 +4,7 @@
     "default": -5000,
     "es-score": -500,
     "en-score": -500,
+    "en-es-score": -500,
     "french-anime-multi": -10000,
     "french-anime-vostfr": -10000,
     "french-multi-vf": 0,
