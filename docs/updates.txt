@@ -1,3 +1,70 @@
+# 2025-06-15 00:29
+- [feat(radarr): Add READ NOTE to Radarr lq-release-title.json](https://github.com/TRaSH-Guides/Guides/pull/2406)
+- [feat(starr): Add RlsGrp `RAWR` to `WEB Tier 02`](https://github.com/TRaSH-Guides/Guides/pull/2407)
+
+# 2025-06-01 00:32
+- [feat(guide): Add `HDHUB4U` to Radarr LQ JSON](https://github.com/TRaSH-Guides/Guides/pull/2404)
+- [fix(starr-german): add ML to German CF to avoid matching ML](https://github.com/TRaSH-Guides/Guides/pull/2400)
+- [feat(starr): add `BiOMA` and `sh4down` to Bad Dual Groups](https://github.com/TRaSH-Guides/Guides/pull/2399)
+
+# 2025-05-25 00:28
+- [feat(radarr): add AOC to LQ](https://github.com/TRaSH-Guides/Guides/pull/2396)
+- [chore(starr): remove duplicate guide-only CFs](https://github.com/TRaSH-Guides/Guides/pull/2398)
+- [ci(markdownlint): disable MD036 and MD059 markdownlint rules](https://github.com/TRaSH-Guides/Guides/pull/2397)
+
+# 2025-05-18 00:27
+- [fix(starr-german): Add german audio block to sonarr and radarr HD remux profiles](https://github.com/TRaSH-Guides/Guides/pull/2393)
+
+# 2025-05-11 00:27
+- [feat(radarr): Add `ZoroSenpai` to `HD Bluray Tier 01` and `WEB Tier 01`](https://github.com/TRaSH-Guides/Guides/pull/2391)
+
+# 2025-05-04 00:28
+- [feat(downloaders): Added a description of what the mover script does +  Mover Tuning tips](https://github.com/TRaSH-Guides/Guides/pull/2389)
+- [fix(radarr): PiRaTeS & EVO LQ (Release Title) regex](https://github.com/TRaSH-Guides/Guides/pull/2388)
+- [feat(radarr): DELETE CF `EVO (no WEBDL)` and move to `LQ (Release Title)`](https://github.com/TRaSH-Guides/Guides/pull/2386)
+- [feat(radarr): Do not match RlsGrp `PiRaTeS` when it is a WEB-DL](https://github.com/TRaSH-Guides/Guides/pull/2385)
+- [style(misc): fixed some typos](https://github.com/TRaSH-Guides/Guides/pull/2381)
+
+# 2025-04-27 00:26
+- [feat(starr): Collection of Custom Formats pages to explicitly state if you are on the Radarr/Sonarr page.](https://github.com/TRaSH-Guides/Guides/pull/2374)
+- [chore(guide): Several backend cleanup and fixes](https://github.com/TRaSH-Guides/Guides/pull/2378)
+- [fix(sonarr-french): update cf-groups/release-groups-french.json](https://github.com/TRaSH-Guides/Guides/pull/2380)
+- [feat(starr): Add BTM to LQ Custom Formats](https://github.com/TRaSH-Guides/Guides/pull/2377)
+
+# 2025-04-20 00:26
+- [fix(guide-sync): Remove the exclude from the `DV HDR10+/HDR10+ Boost` group.](https://github.com/TRaSH-Guides/Guides/pull/2375)
+- [feat(starr): Add tag option to `How to Sync 2 Radarr/Sonarr with each other`](https://github.com/TRaSH-Guides/Guides/pull/2372)
+- [feat(starr-german): Tier update](https://github.com/TRaSH-Guides/Guides/pull/2370)
+- [fix(guide): broken shields in the index.md](https://github.com/TRaSH-Guides/Guides/pull/2371)
+- [feat(starr-anime): Move Some-Stuffs to Anime Web Tier 05](https://github.com/TRaSH-Guides/Guides/pull/2367)
+
+# 2025-04-13 00:49
+- [feat(starr): Update the DV information for the Infuse player, which appears to support the CMv4.0 metadata](https://github.com/TRaSH-Guides/Guides/pull/2343)
+- [feat(guide-sync): Add `French MULTi.VO` profiles for Sonarr](https://github.com/TRaSH-Guides/Guides/pull/2365)
+- [fix(radarr): Add missing Custom Format `Repack3` to all applicable guide profiles](https://github.com/TRaSH-Guides/Guides/pull/2363)
+- [feat(hardlinks): Added a permissions note to Unraid if a user creates folders as root](https://github.com/TRaSH-Guides/Guides/pull/2364)
+- [fix(guide-sync): Update Notifiarr links to the new wiki pages](https://github.com/TRaSH-Guides/Guides/pull/2362)
+- [fix: french profiles](https://github.com/TRaSH-Guides/Guides/pull/)
+- [fix(guide-sync): `French MULTi.VO` profiles for Radarr](https://github.com/TRaSH-Guides/Guides/pull/2361)
+- [chore(guide-sync): Remove Recyclarr config templates](https://github.com/TRaSH-Guides/Guides/pull/2359)
+- [feat(guide-sync): Add `French MULTi.VO` profiles for Radarr](https://github.com/TRaSH-Guides/Guides/pull/2358)
+
+# 2025-04-06 00:25
+- [feat(glossary): add SCENE](https://github.com/TRaSH-Guides/Guides/pull/2357)
+- [fix(downloaders): run dos2unix before executing](https://github.com/TRaSH-Guides/Guides/pull/2356)
+- [feat(downloaders): Updated the NZBGet Guide (Approved by the NZBGet Team)](https://github.com/TRaSH-Guides/Guides/pull/2353)
+
+# 2025-03-30 00:26
+- [feat(starr-anime): Anime LQ Groups should only match HR as an anime group and correct Hitoku typo](https://github.com/TRaSH-Guides/Guides/pull/2349)
+- [fix(guide-sync): Added excludes to [Optional] Miscellaneous](https://github.com/TRaSH-Guides/Guides/pull/2348)
+- [feat(guide-sync): Several small updates and fixes](https://github.com/TRaSH-Guides/Guides/pull/2341)
+- [ci(pre-commit): add config](https://github.com/TRaSH-Guides/Guides/pull/2339)
+- [chore(guide): Update CONTRIBUTING.md](https://github.com/TRaSH-Guides/Guides/pull/2342)
+- [feat(starr): Add RlsGrp `tokar86a` to the `Bad Dual Groups` Custom Format](https://github.com/TRaSH-Guides/Guides/pull/2326)
+- [feat(starr-anime): Add Flugel to Anime BD Tier 03](https://github.com/TRaSH-Guides/Guides/pull/2346)
+- [chore(sonarr): Fix markdown includes not rendering correctly for some custom formats](https://github.com/TRaSH-Guides/Guides/pull/2345)
+- [feat(guide): Centralize the last descriptions on the Custom Format Collection page](https://github.com/TRaSH-Guides/Guides/pull/2340)
+
 # 2025-03-23 00:25
 - [feat(starr): Add RlsGrp `FMD` to `LQ`](https://github.com/TRaSH-Guides/Guides/pull/2338)
 - [fix(guide-sync): corrected duplicate trash_id with two groups](https://github.com/TRaSH-Guides/Guides/pull/2337)

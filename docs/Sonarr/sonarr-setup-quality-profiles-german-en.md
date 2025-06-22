@@ -88,7 +88,7 @@ Sonarr also addresses this issue in their own [Wiki](https://wiki.servarr.com/so
 
 ## Score logic
 
-{! include-markdown "../../includes/merge-quality/sonarrv4-current-logic.md" !}
+{! include-markdown "../../includes/merge-quality/sonarr-current-logic.md" !}
 
 ---
 
@@ -168,6 +168,8 @@ If you prefer 1080p Remuxes (Bluray-1080p Remux)
     - Bluray-1080p Remux
     - WEBDL-1080p
     - WEBRip-1080p
+
+{! include-markdown "../../includes/german-guide/sonarr-german-audio-version-en.md" !}
 
 {! include-markdown "../../includes/german-guide/sonarr-cf-german-remux-web-scoring-en.md" !}
 

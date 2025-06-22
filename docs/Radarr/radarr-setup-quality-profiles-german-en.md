@@ -178,6 +178,8 @@ If you prefer 1080p Remuxes (Remux-1080p)
     - WEBDL-1080p
     - WEBRip-1080p
 
+{! include-markdown "../../includes/german-guide/radarr-german-audio-version-en.md" !}
+
 {! include-markdown "../../includes/german-guide/radarr-cf-german-remux-web-scoring-en.md" !}
 
 {! include-markdown "../../includes/cf/radarr-misc-required.md" !}
@@ -287,11 +289,11 @@ If you prefer 2160p Remuxes (Remux-2160p)
 
 ---
 
-### Advanced Audio and HDR Formats
+### Audio Formats and HDR Formats
 
 TRaSH provides great guides and explanations about them at the following links:
 
-- [Advanced Audio](/Radarr/radarr-setup-quality-profiles/#advanced-audio){:target="_blank" rel="noopener noreferrer"}
+- [Audio Formats](/Radarr/radarr-setup-quality-profiles/#audio-formats){:target="_blank" rel="noopener noreferrer"}
 - [HDR Formats](/Radarr/radarr-setup-quality-profiles/#hdr-formats){:target="_blank" rel="noopener noreferrer"}
 
 ---
